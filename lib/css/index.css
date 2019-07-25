@@ -24,23 +24,23 @@ body {
 }
 
 .slide_background_1 {
-    background-image: url('/images/ji-1.jpg');
+    background-image: url('../../images/ji-1.jpg');
 }
 
 .slide_background_2 {
-    background-image: url('/images/ji-2.jpg');
+    background-image: url('../../images/ji-2.jpg');
 }
 
 .slide_background_3 {
-    background-image: url('/images/ji-3.jpg');
+    background-image: url('../../images/ji-3.jpg');
 }
 
 .slide_background_4 {
-    background-image: url('/images/ji-4.jpg');
+    background-image: url('../../images/ji-4.jpg');
 }
 
 .slide_background_5 {
-    background-image: url('/images/ji-5.jpg');
+    background-image: url('../../images/ji-5.jpg');
 }
 
 .slide_background_1 .header {
